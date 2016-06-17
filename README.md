@@ -1,5 +1,5 @@
 # BulkReanalysisDownload
-Downloads a whole NCEP/NCAR Reanalysis 1 into single file (one file for each variable)
+Downloads a whole NCEP/NCAR Reanalysis 1 into single NetCDF file (one file for each variable)
 
 usage: **BulkReanalysisDownload.exe \<layer\> \<variable\> \<start year\>**
 
