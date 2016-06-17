@@ -9,7 +9,7 @@ let githubURL = "http://github.com/dgrechka/BulkReanalysisDownload/"
 
 let printHelp() =
     printfn ""
-    printfn "usage: BuldReanalysisDownload.exe <layer> <variable> <start year>"
+    printfn "usage: BulkReanalysisDownload.exe <layer> <variable> <start year>"
     printfn ""
     printfn "layer - variable pair identifies the data to download"
     printfn ""
