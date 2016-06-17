@@ -1,15 +1,16 @@
 # BulkReanalysisDownload
 Downloads a whole NCEP/NCAR Reanalysis 1 into single file (one file for each variable)
 
-usage: BuldReanalysisDownload.exe <layer> <variable> <start year>
+usage: **BulkReanalysisDownload.exe \<layer\> \<variable\> \<start year\>**
 
 layer - variable pair identifies the data to download
 
 Available layer - varaibles combinations:
-        layer "surface":
-                          "air"
-                          "prate"
 
-<start year> - the first year to begin download with. The data is downloaded until most recent entry
+ * layer "surface":
+   * "air"
+   * "prate"
 
-Exmaple: BuldReanalysisDownload.exe surface air 1948
+\<start year\> - the first year to begin download with. The data is downloaded until most recent entry
+
+Exmaple: **BuldReanalysisDownload.exe surface air 1948**
