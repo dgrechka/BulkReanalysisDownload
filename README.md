@@ -13,4 +13,4 @@ Available layer - varaibles combinations:
 
 \<start year\> - the first year to begin download with. The data is downloaded until most recent entry
 
-Exmaple: **BulKReanalysisDownload.exe surface air 1948**
+Exmaple: **BulkReanalysisDownload.exe surface air 1948**
