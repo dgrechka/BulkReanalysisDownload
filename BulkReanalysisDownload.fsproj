@@ -8,7 +8,7 @@
     <ProjectGuid>420c7da4-b854-4476-a9af-8fb4e192b543</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>MergeReanalysis</RootNamespace>
-    <AssemblyName>MergeReanalysis</AssemblyName>
+    <AssemblyName>BulkReanalysisDownload</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <TargetFSharpCoreVersion>4.4.0.0</TargetFSharpCoreVersion>
